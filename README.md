@@ -3,7 +3,7 @@ LiveInsight: Distributed Real-Time Analytics Dashboard
 LiveInsight is a distributed, cloud-native real-time analytics platform inspired by Netflix's architecture. 
 It ingests data from user devices and logs in real time, processes it through Apache Kafka and Flink, and visualizes insights dynamically on a web-based dashboard.
 
-## 🎯 Objectives
+## Objectives
 
 - Enable real-time ingestion of user events, logs, or IoT data
 - Process streaming data using Kafka and Apache Flink
